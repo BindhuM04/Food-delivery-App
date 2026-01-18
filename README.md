@@ -14,6 +14,6 @@ This project showcases a menu interface, interactive navigation, and a polished 
 ## Tech Stack
 This project uses:
 - HTML5 
-- CSS3 — Styling and responsive design  
+- CSS3 
 - JavaScript — DOM manipulation and interactive behavior
 
