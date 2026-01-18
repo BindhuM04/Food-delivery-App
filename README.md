@@ -15,5 +15,5 @@ This project showcases a menu interface, interactive navigation, and a polished 
 This project uses:
 - HTML5 
 - CSS3 
-- JavaScript — DOM manipulation and interactive behavior
+- JavaScript
 
