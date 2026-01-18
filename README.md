@@ -3,7 +3,7 @@
 A responsive food delivery web application built with HTML, CSS, and JavaScript.  
 This project showcases a menu interface, interactive navigation, and a polished UI for browsing food items and extend into a full food ordering system.
 
-## Features
+# Features
 -  Home page with hero section  
 -  Menu listing page to view food items  
 -  About page with information  
@@ -11,7 +11,7 @@ This project showcases a menu interface, interactive navigation, and a polished 
 -  Interactive UI using vanilla JavaScript  
 -  Fully responsive layout for desktops and mobile
 
-## Tech Stack
+# Tech Stack
 This project uses:
 - HTML5 
 - CSS3 
